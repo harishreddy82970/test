@@ -14,6 +14,8 @@ public class Example {
 
     public static void main(String[] args) throws Exception {
         SpringApplication.run(Example.class, args);
+        System.out.println("Application started");
+
     }
 
 }
